@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Lestrígones ",
+      "element": "Água",
+      "rarity": "Mitico"
+    },
+    {
+      "id": 2,
+      "name": "Kelpie",
+      "element": "Magia",
+      "rarity": "Mitico"
+    },
+    {
+      "id": 3,
+      "name": "Dybbuk",
+      "element": "Luz",
+      "rarity": "Mitico"
+    },
+    {
+      "id": 4,
+      "name": "Dames",
+      "element": "Fogo",
+      "rarity": "Mitico"
+    },
+    {
+      "id": 5,
+      "name": "Gugalanna",
+      "element": "Fogo",
+      "rarity": "Mitico"
+    },
+    {
+      "id": 6,
+      "name": "Koschei",
+      "element": "Água",
+      "rarity": "Lendário"
+    },
+    {
+      "id": 7,
+      "name": "Nachzehrer",
+      "element": "Fogo",
+      "rarity": "Lendário"
+    }
+  ]
+}
